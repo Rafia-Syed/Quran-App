@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:form_field_validator/form_field_validator.dart';
-import 'package:quran_app/screens/home_screen.dart';
 import 'package:quran_app/screens/register_screen.dart';
 import 'package:username_validator/username_validator.dart';
 import 'package:quran_app/widgets/text_form_field.dart';
@@ -33,8 +32,8 @@ class _LoginScreenState extends State<LoginScreen> {
       isLoading = false;
     });
     if (result) {
-      Navigator.pushReplacement(
-          context, MaterialPageRoute(builder: (_) => HomeScreen()));
+      // Navigator.pushReplacement(
+          // context, MaterialPageRoute(builder: (_) => HomeScreen()));
     } else {
       ScaffoldMessenger.of(context)
           .showSnackBar(SnackBar(content: Text("Invalid credentials")));
