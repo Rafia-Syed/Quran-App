@@ -1,16 +1,3 @@
 # quran_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎉 Introducing my latest masterpiece: a revolutionary Quran App with a stunning splash screen that captivates from the start, seamlessly blending diverse Surahs and Siparas. 📱 Leveraging cutting-edge REST APIs, users embark on an effortless journey through various sections, enriching their Quranic exploration. 🔍 Prioritizing data security, robust login/register features ensure utmost protection with meticulous email/password validation protocols. 🛡️ From the captivating splash screen to the meticulously designed UI, every element is crafted to provide an immersive and enriching experience. 🎨 Grateful for the unparalleled mentorship of Sir Syed Ilhan Shah at Bano Qabil Karachi. 
